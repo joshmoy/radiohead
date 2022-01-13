@@ -7,7 +7,7 @@ export default {
       bg: '#fff',
       color: '#41546c',
       fontSize: '1.4rem',
-      fontFamily: 'Montserrat, sans-serif'
+      fontFamily: 'Poppins'
     },
     a: {
       _hover: {
